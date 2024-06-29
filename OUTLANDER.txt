@@ -1,0 +1,56 @@
+#EXTINF:-1,Outlander S05E01
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/222684.mp4
+#EXTINF:-1,Outlander S05E02
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/231066.mp4
+#EXTINF:-1,Outlander S05E03
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/232391.mp4
+#EXTINF:-1,Outlander S05E04
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/235965.mp4
+#EXTINF:-1,Outlander S05E05
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/232477.mp4
+#EXTINF:-1,Outlander S05E06
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/235483.mp4
+#EXTINF:-1,Outlander S05E07
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/242519.mp4
+#EXTINF:-1,Outlander S05E08
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/241750.mp4
+#EXTINF:-1,Outlander S05E09
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/242113.mp4
+#EXTINF:-1,Outlander S05E10
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/269625.mp4
+#EXTINF:-1,Outlander S05E11
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/253085.mp4
+#EXTINF:-1,Outlander S05E12
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/265517.mp4
+#EXTINF:-1,Outlander S06E01
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/403728.mp4
+#EXTINF:-1,Outlander S06E02
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/409163.mp4
+#EXTINF:-1,Outlander S06E03
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/398799.mp4
+#EXTINF:-1,Outlander S06E04
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/400350.mp4
+#EXTINF:-1,Outlander S06E05
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/401367.mp4
+#EXTINF:-1,Outlander S06E06
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/396937.mp4
+#EXTINF:-1,Outlander S06E07
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/409511.mp4
+#EXTINF:-1,Outlander S06E08
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/402250.mp4
+#EXTINF:-1,Outlander S07E01
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439204.mkv
+#EXTINF:-1,Outlander S07E02
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439202.mkv
+#EXTINF:-1,Outlander S07E03
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439206.mkv
+#EXTINF:-1,Outlander S07E04
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439210.mkv
+#EXTINF:-1,Outlander S07E05
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439208.mkv
+#EXTINF:-1,Outlander S07E06
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439209.mkv
+#EXTINF:-1,Outlander S07E07
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439471.mkv
+#EXTINF:-1,Outlander S07E08
+https://play.tubeyrack.com:443/series/melj@floodouts.com/mufc2/439753.mkv
